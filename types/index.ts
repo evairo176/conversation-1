@@ -1,5 +1,6 @@
 import { Icons } from '@/components/icons';
 
+// update
 export interface NavItem {
   title: string;
   url: string;
